@@ -1128,7 +1128,7 @@ a.has-text-light:hover {
 }
 
 a.has-text-dark:focus,
-a.has-text-dark:hover {
+a.has-text-dark:hover {circle__bottom
   color: #1c1c1c !important;
 }
 
@@ -8610,7 +8610,7 @@ a.link-grey-dark {
 }
 
 .section--message .end-screen .circle-thank-msg {
-  color: #fdfdfd;
+  /* color: #fdfdfd; */
 }
 
 .section--message .end-screen .circle-cat-text {
@@ -8710,7 +8710,7 @@ a.link-grey-dark {
 }
 
 .header-title {
-  font-size: 28px;
+  font-size: 22px;
   line-height: 1;
   font-weight: 800;
   color: #006D5B !important;
@@ -9231,7 +9231,7 @@ a.link-grey-dark {
 }
 
 .circle-hashtag {
-  font-size: 0.5625rem;
+  font-size: 10px;
   font-weight: 800;
   color: #006D5B;
 }
@@ -10019,7 +10019,6 @@ a.footer-link {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.2;
-  color: #fdfdfd;
   margin-bottom: 15px;
 }
 
@@ -10350,6 +10349,7 @@ a.footer-link {
 .container--end .link-title {
   font-size: 14px;
   font-weight: 700;
+  color: #7e7e7e !important;
 }
 
 @media print, screen and (min-width: 768px) {

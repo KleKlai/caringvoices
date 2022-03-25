@@ -77,7 +77,7 @@
                                     </div>
                                     <div class="circle__bottom has-text-centered">
                                         <div class="circle-hashtag">
-                                            #MASADATAYO
+                                            #care4commonhome
                                         </div>
                                     </div>
                                 </div>

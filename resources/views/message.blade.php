@@ -66,12 +66,12 @@
                                                         contenteditable="true" maxlength="140" name="body" rows="14" cols="30"  wrap="soft"></textarea>
                                                     <div class="circle-counter has-text-right js-msg-length">140</div>
                                                 </div>
-                                                <div class="input-wrapper input-wrapper-name">
+                                                <!-- <div class="input-wrapper input-wrapper-name">
                                                     <input type="text" name="name" class="input-name is-theme-input js-msg-name"
                                                         placeholder="Enter Name (optional)" contenteditable="true"
                                                         data-maxlength="23"></input>
                                                     <div class="circle-counter has-text-right js-name-length">23</div>
-                                                </div>
+                                                </div> -->
 
                                             </div>
                                         </div>
