@@ -28,7 +28,7 @@
                             </a>
                         </div>
                         <div class="header-text-wrapper header-wrapper--without-link column is-12-touch is-8-desktop">
-                            <div class="header-title">#VOICESOFTHEPEOPLE Freedom Wall</div>
+                            <div class="header-title">#CARINGVOICES Freedom Wall</div>
                             <div class="header-desc">
                                 You are free to express your thoughts below. Tell us why.
                             </div>
@@ -100,7 +100,7 @@
             <div class="container">
                 <div class="level">
                     <div class="level-left">
-                        <div class="level-item footer-copyright"> © 2022 VOICES OF THE PEOPLE</div>
+                        <div class="level-item footer-copyright"> © 2022 CARING VOICES</div>
                     </div>
                     <div class="level-right">
                         <div class="level-item">

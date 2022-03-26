@@ -73,8 +73,8 @@
                     </div>
                 </div>
                 <div class="find-out-sgunited">
-                    <span>Visit us at</span><a href="http://thebauhaus.min-art.org" target="_blank"
-                        class="button is-primary is-rounded">thebauhaus.min-art.org</a>
+                    <span>Visit us at</span><a href="http://care4commonhome.com" target="_blank"
+                        class="button is-primary is-rounded">care4commonhome.com</a>
                 </div>
             </div>
     </div>
@@ -85,7 +85,7 @@
         <div class="container">
             <div class="level">
                 <div class="level-left">
-                    <div class="level-item footer-copyright"> © 2022 VOICES OF THE PEOPLE</div>
+                    <div class="level-item footer-copyright"> © 2022 CARING VOICES</div>
                 </div>
                 <div class="level-right">
                     <div class="level-item">

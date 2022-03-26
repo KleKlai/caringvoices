@@ -125,7 +125,7 @@
             <div class="container">
                 <div class="level">
                     <div class="level-left">
-                        <div class="level-item footer-copyright"> © 2022 VOICES OF THE PEOPLE</div>
+                        <div class="level-item footer-copyright"> © 2022 CARING VOICES</div>
                     </div>
                     <div class="level-right">
                         <div class="level-item">
